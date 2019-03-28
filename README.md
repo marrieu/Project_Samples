@@ -4,6 +4,6 @@ Few samples of simple data science projects.
 
 - **NN implementation:** Neural Network and the stochastic gradient descent algorithm from scratch in Python.
 
-![Alt text](img/NN.png?style=centerme "Neural Network")
+<img src="img/NN.png" width="480px" align="left">
 
 - **Movie Budget Analysis:** Data analysis and data visualization for movie data
