@@ -1,7 +1,7 @@
 Few samples of simple data science projects.
 
-- - Simplified Cheat Sheet for Machine Learning implementation of Linear Regressin, Logistic Regression, SVM, Random Forest, Liniar Discriminant, Ensemble Bagging and Neural Networks.
+- **Machine Learning-Cheat Sheet:** Simplified Cheat Sheet for data science pipeline and Machine Learning implementation of Linear Regressin, Logistic Regression, SVM, Random Forest, Liniar Discriminant, Ensemble Bagging and Neural Networks.
 
-- - Neural Network and the stochastic gradient descent algorithm from scratch in Python.
+- **NN implementation:** Neural Network and the stochastic gradient descent algorithm from scratch in Python.
 
-- - Data analysis and data visualization for movie data
+- **Movie Budget Analysis:** Data analysis and data visualization for movie data
